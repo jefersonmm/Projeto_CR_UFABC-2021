@@ -12,4 +12,5 @@ Assim, pegaremos os trabalhos realizados por Andrew Beveridge no seu [GitHub](ht
 ![Grafo Geral](https://github.com/jefersonmm/Projeto_CR_UFABC-2021/blob/main/Untitled.png)
 
 *Jeferson Marques de Menezes*
+
 *11201810151*
